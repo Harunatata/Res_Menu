@@ -30,7 +30,7 @@ const items = [
     {
         id: 3,
         title: "Godzillah Food",
-        category: 'Shakes',
+        category: 'Dinna',
         price: 45000,
         img: image3,
         desc: "The milk are so special for breakfast and it will deliver fast.",
@@ -54,7 +54,7 @@ const items = [
     {
         id: 6,
         title: "Shakes Food",
-        category: 'Shakes',
+        category: 'Dinna',
         price: 2000,
         img: image13,
         desc: "The milk are so special for breakfast and it will deliver fast.",
@@ -78,7 +78,7 @@ const items = [
     {
         id: 9,
         title: "Shake Godzilla",
-        category: 'Shakes',
+        category: 'Dinna',
         price: 3000,
         img: image23,
         desc: "The Godzillah food is a nutrient that provide more scalability in the body.",
